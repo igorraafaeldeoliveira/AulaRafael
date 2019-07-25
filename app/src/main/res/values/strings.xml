@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CestaDeFerramentas</string>
+    <string name="country_prompt">Choose a country</string>
+    <string name="title_activity_calculo">calculo</string>
+    <string name="login">login</string>
+    <string name="title_activity_bytes">bytes</string>
+</resources>
